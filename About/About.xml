@@ -33,7 +33,5 @@
     <li>1.5</li>
   </supportedVersions>
   <packageId>UntouchedWagons.UnifiedXenosFaction</packageId>
-  <description>
-    A faction made up of all the non-baseliner xenotypes from Biotech and loads of mods.
-  </description>
+  <description>A faction made up of all the non-baseliner xenotypes from Biotech and loads of mods.</description>
 </ModMetaData>
