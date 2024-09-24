@@ -28,7 +28,7 @@
     <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.pigskin</li>
   </loadAfter>
-  <url></url>
+  <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
