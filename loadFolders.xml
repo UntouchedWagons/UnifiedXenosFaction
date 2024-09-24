@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.5>
+    <li>Common</li>
+    <li>1.5</li>
+    <li IfModActive="sarg.alphagenes">Compatibility\Sarg.AlphaGenes</li>
+    <li IfModActive="SG.moonjelly">Compatibility\SG.moonjelly</li>
+    <li IfModActive="Sovereign.Seraph">Compatibility\Sovereign.Seraph</li>
+    <li IfModActive="Sov.ElseudPathf">Compatibility\Sov.ElseudPathf</li>
+    <li IfModActive="redmattis.bigsmall">Compatibility\redmattis.bigsmall</li>
+    <li IfModActive="redmattis.bigsmall">Compatibility\redmattis.bigsmall</li>
+    <li IfModActive="redmattis.morexenos">Compatibility\redmattis.morexenos</li>
+    <li IfModActive="wvc.sergkart.races.biotech">Compatibility\wvc.sergkart.races.biotech</li>
+    <li IfModActive="fs.reviaracebiotech">Compatibility\fs.reviaracebiotech</li>
+    <li IfModActive="vanillaracesexpanded.fungoid">Compatibility\vanillaracesexpanded.fungoid</li>
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility\vanillaracesexpanded.lycanthrope</li>
+    <li IfModActive="vanillaracesexpanded.phytokin">Compatibility\vanillaracesexpanded.phytokin</li>
+    <li IfModActive="vanillaracesexpanded.saurid">Compatibility\vanillaracesexpanded.fungoid</li>
+    <li IfModActive="vanillaracesexpanded.archon">Compatibility\vanillaracesexpanded.archon</li>
+  </v1.5>
+</loadFolders>

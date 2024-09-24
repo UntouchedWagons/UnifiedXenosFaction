@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <BS_Ogre>0.1</BS_Ogre>
+      <BS_GreatOgre>0.1</BS_GreatOgre>
+      <BS_Troll>0.1</BS_Troll>
+      <BS_FrostJotun>0.1</BS_FrostJotun>
+      <BS_FireJotun>0.1</BS_FireJotun>
+      <BS_Jotun>0.1</BS_Jotun>
+      <BS_Surtr>0.1</BS_Surtr>
+      <BS_Ymir>0.1</BS_Ymir>
+      <BS_BrokenTitan>0.1</BS_BrokenTitan>
+      <BS_Half_Jotun>0.1</BS_Half_Jotun>
+      <BS_Gnome>0.1</BS_Gnome>
+      <BS_Dwarf>0.1</BS_Dwarf>
+      <BS_Svartalf>0.1</BS_Svartalf>
+      <BS_Redcap>0.1</BS_Redcap>
+    </value>
+  </Operation>
+</Patch>

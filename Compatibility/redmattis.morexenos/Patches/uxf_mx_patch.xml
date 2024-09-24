@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <BS_Weaver>0.1</BS_Weaver>
+      <BS_Devilspider>0.1</BS_Devilspider>
+      <BS_Mimic>0.1</BS_Mimic>
+      <BS_Abomination>0.1</BS_Abomination>
+      <BS_Broodmother>0.1</BS_Broodmother>
+    </value>
+  </Operation>
+</Patch>

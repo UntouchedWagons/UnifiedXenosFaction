@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <AG_Animusen>0.1</AG_Animusen>
+      <AG_Helixien>0.1</AG_Helixien>
+      <AG_Hiveling>0.1</AG_Hiveling>
+      <AG_Taukai>0.1</AG_Taukai>
+      <AG_MindDevourer>0.1</AG_MindDevourer>
+      <AG_Wretch>0.1</AG_Wretch>
+      <AG_Efreet>0.1</AG_Efreet>
+      <AG_Drakonori>0.1</AG_Drakonori>
+      <AG_Nereid>0.1</AG_Nereid>
+    </value>
+  </Operation>
+</Patch>

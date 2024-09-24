@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Unified Xenos Faction</name>
+  <author>UntouchedWagons</author>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>sarg.alphagenes</li>
+    <li>SG.moonjelly</li>
+    <li>Sovereign.Seraph</li>
+    <li>Sov.ElseudPathf</li>
+    <li>redmattis.bigsmall</li>
+    <li>redmattis.morexenos</li>
+    <li>wvc.sergkart.races.biotech</li>
+    <li>fs.reviaracebiotech</li>
+    <li>vanillaracesexpanded.fungoid</li>
+    <li>vanillaracesexpanded.lycanthrope</li>
+    <li>vanillaracesexpanded.phytokin</li>
+    <li>vanillaracesexpanded.saurid</li>
+    <li>vanillaracesexpanded.archon</li>
+    <li>vanillaracesexpanded.pigskin</li>
+  </loadAfter>
+  <url></url>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>UntouchedWagons.UnifiedXenosFaction</packageId>
+  <description>
+    A faction made up of all the non-baseliner xenotypes from Biotech and loads of mods.
+  </description>
+</ModMetaData>

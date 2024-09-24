@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <FactionDef ParentName="PirateBandBase">
+    <defName>UXF_XenohumanPirates</defName>
+    <label>unified xenos faction</label>
+    <permanentEnemy>true</permanentEnemy>
+    <description>A loose confederation of pirate gangs established by genetically modified humans of all kinds.\n\nThey have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.</description>
+    <factionIconPath>World/WorldObjects/Expanding/PirateOutpost</factionIconPath>
+    
+    <xenotypeSet Inherit="False">
+      <xenotypeChances>
+        <Waster>0.1</Waster>
+        <Neanderthal>0.1</Neanderthal>
+        <Dirtmole>0.1</Dirtmole>
+        <Pigskin>0.1</Pigskin>
+        <Yttakin>0.1</Yttakin>
+        <Impid>0.1</Impid>
+      </xenotypeChances>
+    </xenotypeSet>
+    
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+    <colorSpectrum>
+      <li>(0.75, 0.20, 0.2)</li>
+      <li>(0.45, 0.40, 0.90)</li>
+    </colorSpectrum>
+    
+    <pawnGroupMakers Inherit="False">
+      <li>
+        <!-- Normal fights, ranged with melee mix-ins -->
+        <kindDef>Combat</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <Drifter>10</Drifter>
+          <Thrasher>3</Thrasher>
+          <Scavenger>10</Scavenger>
+          <Pirate>10</Pirate>
+          <Grenadier_Tox>2</Grenadier_Tox>
+          <Grenadier_Destructive>0.25</Grenadier_Destructive>
+          <Mercenary_GunnerTox>10</Mercenary_GunnerTox>
+          <Mercenary_Gunner>5</Mercenary_Gunner>
+          <Mercenary_HeavyTox>6</Mercenary_HeavyTox>
+          <Mercenary_Heavy>1</Mercenary_Heavy>
+          <Mercenary_SlasherTox>3</Mercenary_SlasherTox>
+          <Mercenary_Slasher>1</Mercenary_Slasher>
+          <Mercenary_Sniper>7</Mercenary_Sniper>
+          <Mercenary_EliteTox>5</Mercenary_EliteTox>
+          <Mercenary_Elite>1</Mercenary_Elite>
+          <PirateBossTox>5</PirateBossTox>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, melee-only -->
+        <kindDef>Combat</kindDef>
+        <commonality>30</commonality>
+        <disallowedStrategies>
+          <li>Siege</li>
+        </disallowedStrategies>
+        <options>
+          <Thrasher>10</Thrasher>
+          <Mercenary_SlasherTox>10</Mercenary_SlasherTox>
+          <Mercenary_Slasher>1</Mercenary_Slasher>
+          <PirateBossTox>5</PirateBossTox>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, ranged only -->
+        <kindDef>Combat</kindDef>
+        <commonality>20</commonality>
+        <options>
+          <Scavenger>10</Scavenger>
+          <Pirate>10</Pirate>
+          <Grenadier_Tox>2</Grenadier_Tox>
+          <Grenadier_Destructive>0.25</Grenadier_Destructive>
+          <Mercenary_GunnerTox>10</Mercenary_GunnerTox>
+          <Mercenary_Gunner>1</Mercenary_Gunner>
+          <Mercenary_HeavyTox>6</Mercenary_HeavyTox>
+          <Mercenary_Heavy>1</Mercenary_Heavy>
+          <Mercenary_Sniper>7</Mercenary_Sniper>
+          <Mercenary_EliteTox>5</Mercenary_EliteTox>
+          <Mercenary_Elite>1</Mercenary_Elite>
+          <PirateBossTox>5</PirateBossTox>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, explosives with ranged mix-ins -->
+        <kindDef>Combat</kindDef>
+        <commonality>15</commonality>
+        <disallowedStrategies>
+          <li>Siege</li>
+        </disallowedStrategies>
+        <options>
+          <Grenadier_Tox>10</Grenadier_Tox>
+          <Grenadier_Destructive>1</Grenadier_Destructive>
+          <Mercenary_GunnerTox>2</Mercenary_GunnerTox>
+          <Mercenary_Gunner>0.25</Mercenary_Gunner>
+          <Mercenary_HeavyTox>10</Mercenary_HeavyTox>
+          <Mercenary_Heavy>1</Mercenary_Heavy>
+          <Mercenary_EliteTox>1</Mercenary_EliteTox>
+          <Mercenary_Elite>0.25</Mercenary_Elite>
+          <PirateBossTox>1</PirateBossTox>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, snipers only -->
+        <kindDef>Combat</kindDef>
+        <commonality>10</commonality>
+        <options>
+          <Mercenary_Sniper>10</Mercenary_Sniper>
+        </options>
+      </li>
+      <li>
+        <!-- Normal fights, drifters only (very rare) -->
+        <kindDef>Combat</kindDef>
+        <commonality>2.5</commonality>
+        <maxTotalPoints>1000</maxTotalPoints>
+        <options>
+          <Drifter>10</Drifter>
+        </options>
+      </li>
+      <li>
+        <!-- Base defense, mainly ranged with melee mix-ins -->
+        <kindDef>Settlement</kindDef>
+        <options>
+          <Thrasher>3</Thrasher>
+          <Pirate>10</Pirate>
+          <Grenadier_Tox>2</Grenadier_Tox>
+          <Grenadier_Destructive>0.25</Grenadier_Destructive>
+          <Mercenary_SlasherTox>3</Mercenary_SlasherTox>
+          <Mercenary_Slasher>1</Mercenary_Slasher>
+          <Mercenary_Sniper>10</Mercenary_Sniper>
+          <Mercenary_GunnerTox>10</Mercenary_GunnerTox>
+          <Mercenary_Gunner>1</Mercenary_Gunner>
+          <Mercenary_EliteTox>10</Mercenary_EliteTox>
+          <Mercenary_Elite>1</Mercenary_Elite>
+          <PirateBossTox>10</PirateBossTox>
+        </options>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Ideology">
+        <kindDef>Miners</kindDef>
+        <commonality>1</commonality>
+        <options>
+          <Miner>1</Miner>
+        </options>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Ideology">
+        <kindDef>Hunters</kindDef>
+        <commonality>1</commonality>
+        <options>
+          <Hunter>1</Hunter>
+        </options>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Ideology">
+        <kindDef>Loggers</kindDef>
+        <commonality>1</commonality>
+        <options>
+          <Logger>1</Logger>
+        </options>
+      </li>
+      <li MayRequire="Ludeon.RimWorld.Ideology">
+        <kindDef>Farmers</kindDef>
+        <commonality>1</commonality>
+        <options>
+          <Farmer>1</Farmer>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+</Defs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <WVC_Bloodeater>0.1</WVC_Bloodeater>
+      <WVC_Ashen>0.1</WVC_Ashen>
+      <WVC_Blank>0.1</WVC_Blank>
+      <WVC_CatDeity>0.1</WVC_CatDeity>
+      <WVC_Shadoweater>0.1</WVC_Shadoweater>
+      <WVC_Featherdust>0.1</WVC_Featherdust>
+      <WVC_Lilith>0.1</WVC_Lilith>
+      <WVC_Sandycat>0.1</WVC_Sandycat>
+    </value>
+  </Operation>
+</Patch>
