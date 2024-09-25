@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <v1.5>
+    <li>1.5</li>
     <li IfModActive="sarg.alphagenes">Compatibility\Sarg.AlphaGenes</li>
     <li IfModActive="SG.moonjelly">Compatibility\SG.moonjelly</li>
     <li IfModActive="Sovereign.Seraph">Compatibility\Sovereign.Seraph</li>
