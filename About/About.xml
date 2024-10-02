@@ -27,6 +27,7 @@
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaracesexpanded.archon</li>
     <li>vanillaracesexpanded.pigskin</li>
+    <li>LimeTreeSnake.Xenotech</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

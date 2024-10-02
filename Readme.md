@@ -25,4 +25,5 @@ The following mods are supported:
  * [VRE - Pigskin](https://steamcommunity.com/sharedfiles/filedetails/?id=3164798809)
  * [VRE - Saurid](https://steamcommunity.com/sharedfiles/filedetails/?id=2880990495)
  * [WVC - Xenotypes and Genes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886992038)
+ * [LTX Xenotech](https://steamcommunity.com/sharedfiles/filedetails/?id=2877887281)
 

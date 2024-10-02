@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <LTS_Nyankind>0.1</LTS_Nyankind>
+      <LTS_Growler>0.1</LTS_Growler>
+      <LTS_Elfin>0.1</LTS_Elfin>
+      <LTS_Ork>0.1</LTS_Ork>
+      <LTS_Lilime>0.1</LTS_Lilime>
+      <LTS_Faun>0.1</LTS_Faun>
+      <LTS_Anthrae>0.1</LTS_Anthrae>
+      <LTS_Hydragon>0.1</LTS_Hydragon>
+      <LTS_Mucorins>0.1</LTS_Mucorins>
+      <LTS_Nexarii>0.1</LTS_Nexarii>
+    </value>
+  </Operation>
+</Patch>
