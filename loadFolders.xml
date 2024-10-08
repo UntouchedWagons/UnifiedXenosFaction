@@ -20,5 +20,6 @@
     <li IfModActive="LimeTreeSnake.Xenotech">Compatibility\LimeTreeSnake.Xenotech</li>
     <li IfModActive="Parvoid.ThrumboianRace">Compatibility\Parvoid.ThrumboianRace</li>
     <li IfModActive="Gene.Rotfish">Compatibility\Gene.Rotfish</li>
+    <li IfModActive="EuglenaExpanded.EuglenaXenotype">Compatibility\EuglenaExpanded.EuglenaXenotype</li>
   </v1.5>
 </loadFolders>

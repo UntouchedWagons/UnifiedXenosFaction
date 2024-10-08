@@ -28,3 +28,4 @@ The following mods are supported:
  * [LTX Xenotech](https://steamcommunity.com/sharedfiles/filedetails/?id=2877887281)
  * [Thrumboian Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3257981328)
  * [Biotech xenotype expanded - Rotfish](https://steamcommunity.com/sharedfiles/filedetails/?id=2916253559)
+ * [Euglena Expanded - Euglena Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2975005239)
