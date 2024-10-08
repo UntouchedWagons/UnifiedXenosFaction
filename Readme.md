@@ -26,4 +26,5 @@ The following mods are supported:
  * [VRE - Saurid](https://steamcommunity.com/sharedfiles/filedetails/?id=2880990495)
  * [WVC - Xenotypes and Genes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886992038)
  * [LTX Xenotech](https://steamcommunity.com/sharedfiles/filedetails/?id=2877887281)
+ * [Thrumboian Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3257981328)
 
