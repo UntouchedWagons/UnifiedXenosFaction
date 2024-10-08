@@ -31,6 +31,8 @@
     <li>Parvoid.ThrumboianRace</li>
     <li>Gene.Rotfish</li>
     <li>EuglenaExpanded.EuglenaXenotype</li>
+    <li>ElSov.Beliar</li>
+    <li>Rooboid.Satyr</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

@@ -29,3 +29,5 @@ The following mods are supported:
  * [Thrumboian Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3257981328)
  * [Biotech xenotype expanded - Rotfish](https://steamcommunity.com/sharedfiles/filedetails/?id=2916253559)
  * [Euglena Expanded - Euglena Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2975005239)
+ * [Beliar Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3237072670)
+ * [Roo's Satyr Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2971803439)

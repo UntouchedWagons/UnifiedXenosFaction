@@ -21,5 +21,7 @@
     <li IfModActive="Parvoid.ThrumboianRace">Compatibility\Parvoid.ThrumboianRace</li>
     <li IfModActive="Gene.Rotfish">Compatibility\Gene.Rotfish</li>
     <li IfModActive="EuglenaExpanded.EuglenaXenotype">Compatibility\EuglenaExpanded.EuglenaXenotype</li>
+    <li IfModActive="ElSov.Beliar">Compatibility\ElSov.Beliar</li>
+    <li IfModActive="Rooboid.Satyr">Compatibility\Rooboid.Satyr</li>
   </v1.5>
 </loadFolders>
