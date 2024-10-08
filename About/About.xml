@@ -29,6 +29,7 @@
     <li>vanillaracesexpanded.pigskin</li>
     <li>LimeTreeSnake.Xenotech</li>
     <li>Parvoid.ThrumboianRace</li>
+    <li>Gene.Rotfish</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

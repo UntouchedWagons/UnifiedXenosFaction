@@ -27,4 +27,4 @@ The following mods are supported:
  * [WVC - Xenotypes and Genes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886992038)
  * [LTX Xenotech](https://steamcommunity.com/sharedfiles/filedetails/?id=2877887281)
  * [Thrumboian Race](https://steamcommunity.com/sharedfiles/filedetails/?id=3257981328)
-
+ * [Biotech xenotype expanded - Rotfish](https://steamcommunity.com/sharedfiles/filedetails/?id=2916253559)

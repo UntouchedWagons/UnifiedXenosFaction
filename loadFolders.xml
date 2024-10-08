@@ -19,5 +19,6 @@
     <li IfModActive="vanillaracesexpanded.pigskin">Compatibility\vanillaracesexpanded.pigskin</li>
     <li IfModActive="LimeTreeSnake.Xenotech">Compatibility\LimeTreeSnake.Xenotech</li>
     <li IfModActive="Parvoid.ThrumboianRace">Compatibility\Parvoid.ThrumboianRace</li>
+    <li IfModActive="Gene.Rotfish">Compatibility\Gene.Rotfish</li>
   </v1.5>
 </loadFolders>
