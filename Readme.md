@@ -31,3 +31,5 @@ The following mods are supported:
  * [Euglena Expanded - Euglena Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2975005239)
  * [Beliar Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3237072670)
  * [Roo's Satyr Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2971803439)
+ * [Roo's Faun Xenotype](https://steamcommunity.com/workshop/filedetails/?id=2971801826)
+ * [Roo's Minotaur Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=2927812651)

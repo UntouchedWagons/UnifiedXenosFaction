@@ -23,5 +23,7 @@
     <li IfModActive="EuglenaExpanded.EuglenaXenotype">Compatibility\EuglenaExpanded.EuglenaXenotype</li>
     <li IfModActive="ElSov.Beliar">Compatibility\ElSov.Beliar</li>
     <li IfModActive="Rooboid.Satyr">Compatibility\Rooboid.Satyr</li>
+    <li IfModActive="Rooboid.Faun">Compatibility\Rooboid.Faun</li>
+    <li IfModActive="Rooboid.Minotaur">Compatibility\Rooboid.Minotaur</li>
   </v1.5>
 </loadFolders>

@@ -33,6 +33,8 @@
     <li>EuglenaExpanded.EuglenaXenotype</li>
     <li>ElSov.Beliar</li>
     <li>Rooboid.Satyr</li>
+    <li>Rooboid.Faun</li>
+    <li>Rooboid.Minotaur</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <RBSF_Faun>0.1</RBSF_Faun>
+    </value>
+  </Operation>
+</Patch>
