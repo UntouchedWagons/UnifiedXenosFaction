@@ -35,6 +35,17 @@
     <li>Rooboid.Satyr</li>
     <li>Rooboid.Faun</li>
     <li>Rooboid.Minotaur</li>
+    <li>det.avaloi</li>
+    <li>det.boglegs</li>
+    <li>det.stoneborn</li>
+    <li>det.venators</li>
+    <li>obsidiaexpansion.xenos.arachnas</li>
+    <li>obsidiaexpansion.xenos.axotl</li>
+    <li>obsidiaexpansion.xenos.ceratons</li>
+    <li>obsidiaexpansion.xenos.liches</li>
+    <li>obsidiaexpansion.xenos.mothoids</li>
+    <li>obsidiaexpansion.xenos.slimes</li>
+    <li>obsidiaexpansion.xenos.tortle</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

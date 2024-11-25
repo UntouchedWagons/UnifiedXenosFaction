@@ -29,5 +29,12 @@
     <li IfModActive="det.boglegs">Compatibility\det.boglegs</li>
     <li IfModActive="det.stoneborn">Compatibility\det.stoneborn</li>
     <li IfModActive="det.venators">Compatibility\det.venators</li>
+    <li IfModActive="obsidiaexpansion.xenos.arachnas">Compatibility\obsidiaexpansion.xenos.arachnas</li>
+    <li IfModActive="obsidiaexpansion.xenos.axotl">Compatibility\obsidiaexpansion.xenos.axotl</li>
+    <li IfModActive="obsidiaexpansion.xenos.ceratons">Compatibility\obsidiaexpansion.xenos.ceratons</li>
+    <li IfModActive="obsidiaexpansion.xenos.liches">Compatibility\obsidiaexpansion.xenos.liches</li>
+    <li IfModActive="obsidiaexpansion.xenos.mothoids">Compatibility\obsidiaexpansion.xenos.mothoids</li>
+    <li IfModActive="obsidiaexpansion.xenos.slimes">Compatibility\obsidiaexpansion.xenos.slimes</li>
+    <li IfModActive="obsidiaexpansion.xenos.tortle">Compatibility\obsidiaexpansion.xenos.tortle</li>
   </v1.5>
 </loadFolders>
