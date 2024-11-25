@@ -3,8 +3,7 @@
   <Operation Class="PatchOperationAdd">
     <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
     <value>
-      <VRE_Gauranlenkin>0.1</VRE_Gauranlenkin>
-      <VRE_Animakin>0.1</VRE_Animakin>
+      <Stoneborn>0.1</Stoneborn>
     </value>
   </Operation>
 </Patch>

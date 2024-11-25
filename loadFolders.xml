@@ -25,5 +25,9 @@
     <li IfModActive="Rooboid.Satyr">Compatibility\Rooboid.Satyr</li>
     <li IfModActive="Rooboid.Faun">Compatibility\Rooboid.Faun</li>
     <li IfModActive="Rooboid.Minotaur">Compatibility\Rooboid.Minotaur</li>
+    <li IfModActive="det.avaloi">Compatibility\det.avaloi</li>
+    <li IfModActive="det.boglegs">Compatibility\det.boglegs</li>
+    <li IfModActive="det.stoneborn">Compatibility\det.stoneborn</li>
+    <li IfModActive="det.venators">Compatibility\det.venators</li>
   </v1.5>
 </loadFolders>
