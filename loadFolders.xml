@@ -36,5 +36,6 @@
     <li IfModActive="obsidiaexpansion.xenos.mothoids">Compatibility\obsidiaexpansion.xenos.mothoids</li>
     <li IfModActive="obsidiaexpansion.xenos.slimes">Compatibility\obsidiaexpansion.xenos.slimes</li>
     <li IfModActive="obsidiaexpansion.xenos.tortle">Compatibility\obsidiaexpansion.xenos.tortle</li>
+    <li IfModActive="ATK.Anthrosonae">Compatibility\ATK.Anthrosonae</li>
   </v1.5>
 </loadFolders>

@@ -44,3 +44,4 @@ The following mods are supported:
  * [Obsidia Expansion - Axotl Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3304340573)
  * [Obsidia Expansion - Liches Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3318124376)
  * [Obsidia Expansion - Slimes Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3331598962)
+ * [Anthrosonaes](https://steamcommunity.com/sharedfiles/filedetails/?id=2902258418)

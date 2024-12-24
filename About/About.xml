@@ -46,6 +46,7 @@
     <li>obsidiaexpansion.xenos.mothoids</li>
     <li>obsidiaexpansion.xenos.slimes</li>
     <li>obsidiaexpansion.xenos.tortle</li>
+    <li>ATK.Anthrosonae</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

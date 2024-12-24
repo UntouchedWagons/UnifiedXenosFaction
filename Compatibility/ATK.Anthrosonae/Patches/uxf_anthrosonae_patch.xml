@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/FactionDef[defName="UXF_XenohumanPirates"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+      <ATK_Anthrocat>0.1</ATK_Anthrocat>
+      <ATK_Anthrocow>0.1</ATK_Anthrocow>
+      <ATK_Anthrodeer>0.1</ATK_Anthrodeer>
+      <ATK_Anthrodrake>0.1</ATK_Anthrodrake>
+      <ATK_Anthrofox>0.1</ATK_Anthrofox>
+      <ATK_Anthrogriff>0.1</ATK_Anthrogriff>
+      <ATK_Anthrogoat>0.1</ATK_Anthrogoat>
+      <ATK_Anthrohyena>0.1</ATK_Anthrohyena>
+      <ATK_Anthropanda>0.1</ATK_Anthropanda>
+      <ATK_Anthrorabbit>0.1</ATK_Anthrorabbit>
+      <ATK_Anthrowolf>0.1</ATK_Anthrowolf>
+    </value>
+  </Operation>
+</Patch>
