@@ -37,5 +37,10 @@
     <li IfModActive="obsidiaexpansion.xenos.slimes">Compatibility\obsidiaexpansion.xenos.slimes</li>
     <li IfModActive="obsidiaexpansion.xenos.tortle">Compatibility\obsidiaexpansion.xenos.tortle</li>
     <li IfModActive="ATK.Anthrosonae">Compatibility\ATK.Anthrosonae</li>
+    <li IfModActive="Erin.AuronyaBiotech">Compatibility\Erin.AuronyaBiotech</li>
+    <li IfModActive="Erin.AzaphraeBiotech">Compatibility\Erin.AzaphraeBiotech</li>
+    <li IfModActive="Erin.Corvyia">Compatibility\Erin.Corvyia</li>
+    <li IfModActive="Erin.Fenrisulfr">Compatibility\Erin.Fenrisulfr</li>
+    <li IfModActive="Erin.Shisune">Compatibility\Erin.Shisune</li>
   </v1.5>
 </loadFolders>

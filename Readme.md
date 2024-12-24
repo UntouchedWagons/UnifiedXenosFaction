@@ -45,3 +45,8 @@ The following mods are supported:
  * [Obsidia Expansion - Liches Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3318124376)
  * [Obsidia Expansion - Slimes Xenotype](https://steamcommunity.com/sharedfiles/filedetails/?id=3331598962)
  * [Anthrosonaes](https://steamcommunity.com/sharedfiles/filedetails/?id=2902258418)
+ * [Erin's Auronya](https://steamcommunity.com/sharedfiles/filedetails/?id=2908837535)
+ * [Erin's Azaphrae](https://steamcommunity.com/sharedfiles/filedetails/?id=3035240271)
+ * [Erin's Corvyia](https://steamcommunity.com/sharedfiles/filedetails/?id=3154954530)
+ * [Erin's Fenrisúlfr](https://steamcommunity.com/sharedfiles/filedetails/?id=3020079359)
+ * [Erin's Shisune](https://steamcommunity.com/sharedfiles/filedetails/?id=2974138931)

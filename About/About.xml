@@ -47,6 +47,11 @@
     <li>obsidiaexpansion.xenos.slimes</li>
     <li>obsidiaexpansion.xenos.tortle</li>
     <li>ATK.Anthrosonae</li>
+    <li>Erin.AuronyaBiotech</li>
+    <li>Erin.AzaphraeBiotech</li>
+    <li>Erin.Corvyia</li>
+    <li>Erin.Fenrisulfr</li>
+    <li>Erin.Shisune</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>
