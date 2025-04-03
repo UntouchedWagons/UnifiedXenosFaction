@@ -50,3 +50,5 @@ The following mods are supported:
  * [Erin's Corvyia](https://steamcommunity.com/sharedfiles/filedetails/?id=3154954530)
  * [Erin's Fenrisúlfr](https://steamcommunity.com/sharedfiles/filedetails/?id=3020079359)
  * [Erin's Shisune](https://steamcommunity.com/sharedfiles/filedetails/?id=2974138931)
+ * [Rimsenal Xenotype Pack - Askbarn](https://steamcommunity.com/sharedfiles/filedetails/?id=2918812858)
+ * [Rimsenal Xenotype Pack - Harana](https://steamcommunity.com/sharedfiles/filedetails/?id=3228637524)

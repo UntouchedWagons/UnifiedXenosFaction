@@ -42,5 +42,7 @@
     <li IfModActive="Erin.Corvyia">Compatibility\Erin.Corvyia</li>
     <li IfModActive="Erin.Fenrisulfr">Compatibility\Erin.Fenrisulfr</li>
     <li IfModActive="Erin.Shisune">Compatibility\Erin.Shisune</li>
+    <li IfModActive="Rimsenal.Askbarn">Compatibility\Rimsenal.Askbarn</li>
+    <li IfModActive="Rimsenal.Harana">Compatibility\Rimsenal.Harana</li>
   </v1.5>
 </loadFolders>
