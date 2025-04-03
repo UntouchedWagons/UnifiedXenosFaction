@@ -14,7 +14,7 @@
     <li IfModActive="vanillaracesexpanded.fungoid">Compatibility\vanillaracesexpanded.fungoid</li>
     <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility\vanillaracesexpanded.lycanthrope</li>
     <li IfModActive="vanillaracesexpanded.phytokin">Compatibility\vanillaracesexpanded.phytokin</li>
-    <li IfModActive="vanillaracesexpanded.saurid">Compatibility\vanillaracesexpanded.fungoid</li>
+    <li IfModActive="vanillaracesexpanded.fungoid">Compatibility\vanillaracesexpanded.fungoid</li>
     <li IfModActive="vanillaracesexpanded.archon">Compatibility\vanillaracesexpanded.archon</li>
     <li IfModActive="vanillaracesexpanded.pigskin">Compatibility\vanillaracesexpanded.pigskin</li>
     <li IfModActive="LimeTreeSnake.Xenotech">Compatibility\LimeTreeSnake.Xenotech</li>
