@@ -2,6 +2,7 @@
 <loadFolders>
   <v1.5>
     <li>1.5</li>
+    <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility\Odyssey</li>
     <li IfModActive="sarg.alphagenes">Compatibility\Sarg.AlphaGenes</li>
     <li IfModActive="SG.moonjelly">Compatibility\SG.moonjelly</li>
     <li IfModActive="Sovereign.Seraph">Compatibility\Sovereign.Seraph</li>
