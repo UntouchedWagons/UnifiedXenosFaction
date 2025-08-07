@@ -45,5 +45,6 @@
     <li IfModActive="Erin.Shisune">Compatibility\Erin.Shisune</li>
     <li IfModActive="Rimsenal.Askbarn">Compatibility\Rimsenal.Askbarn</li>
     <li IfModActive="Rimsenal.Harana">Compatibility\Rimsenal.Harana</li>
+    <li IfModActive="Sov.Nephilim">Compatibility\Sov.Nephilim</li>
   </v1.5>
 </loadFolders>
