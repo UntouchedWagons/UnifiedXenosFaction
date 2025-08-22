@@ -46,5 +46,6 @@
     <li IfModActive="Rimsenal.Askbarn">Compatibility\Rimsenal.Askbarn</li>
     <li IfModActive="Rimsenal.Harana">Compatibility\Rimsenal.Harana</li>
     <li IfModActive="Sov.Nephilim">Compatibility\Sov.Nephilim</li>
+    <li IfModActive="seos.m.r.racef.forked">Compatibility\seos.m.r.racef.forked</li>
   </v1.5>
 </loadFolders>

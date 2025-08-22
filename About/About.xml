@@ -56,6 +56,7 @@
     <li>Rimsenal.Askbarn</li>
     <li>Rimsenal.Harana</li>
     <li>Sov.Nephilim</li>
+    <li>seos.m.r.racef.forked</li>
   </loadAfter>
   <url>https://github.com/UntouchedWagons/UnifiedXenosFaction</url>
   <supportedVersions>

@@ -53,3 +53,4 @@ The following mods are supported:
  * [Rimsenal Xenotype Pack - Askbarn](https://steamcommunity.com/sharedfiles/filedetails/?id=2918812858)
  * [Rimsenal Xenotype Pack - Harana](https://steamcommunity.com/sharedfiles/filedetails/?id=3228637524)
  * [Nephilim Xenotype Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=3542508261)
+ * [Faifox](https://steamcommunity.com/sharedfiles/filedetails/?id=3258185971)
